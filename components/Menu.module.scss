@@ -1,0 +1,15 @@
+.external {
+    ul {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+
+        li {
+            margin-right: 20px;
+        }
+
+        a:hover {
+            color: #08dada;
+        }
+    }
+}
